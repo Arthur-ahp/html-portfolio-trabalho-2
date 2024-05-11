@@ -160,10 +160,10 @@ html{
 #contato{
   font-family: Arial, sans-serif;
   color: #333;
-  margin: 0 auto;
+  margin:  auto;
   max-width: 600px;
   padding: 20px;
-  border: 1px solid #000000;
+  height: -10px;
 }
 
 #area{
